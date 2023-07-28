@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "8974ead100afd2e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ca6ee7b6f380dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "643aa508af557633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kubernetes/一、 容器底层原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35b0dab7ceeda589",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a80c78ca3dc2c2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b5a7880ac81e98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6a4537311aa5a0d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3836b5c1b3181184",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ad07c90ec9bc1ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7f9a8328140f8b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5069cd43165dec2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kubernetes/一、 容器底层原理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bad1757b3e50f48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kubernetes/一、 容器底层原理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58b9667044739c29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02316a7fea5d0bc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kubernetes/一、 容器底层原理.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "643aa508af557633",
+  "lastOpenFiles": [
+    "kubernetes/一、 容器底层原理.md",
+    "README.md",
+    "kubernetes/未命名.canvas",
+    "未命名.md",
+    "2023-07-28.md",
+    "高效学习/费曼学习法.md",
+    "本地库",
+    "vue3/第三章 Attribute 绑定.md",
+    "高效学习",
+    "2023-07-24.md",
+    "vue3/第八章  计算属性.md",
+    "vue3/第九章  生命周期和模板.md",
+    "vue3/第十章  侦听器.md",
+    "vue3/第十二章 Props.md",
+    "kubernetes",
+    "vue3/第十四章  插槽.md",
+    "vue3/第十三章  Emits.md",
+    "vue3/第十一章 组件.md",
+    "vue3/第七章  列表渲染.md",
+    "vue3/第五章  表单绑定.md",
+    "vue3/第六章  条件渲染.md",
+    "vue3/第一章     API 风格.md",
+    "vue3/第四章 事件监听.md",
+    "vue3/第二章  声明式渲染.md",
+    "未命名.canvas",
+    "vue3"
+  ]
+}
